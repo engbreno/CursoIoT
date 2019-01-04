@@ -1,0 +1,1 @@
+Criar um fluxo no Node-RED para Receber comandos via MQQT e enviar comunicar via websocket com o arduino

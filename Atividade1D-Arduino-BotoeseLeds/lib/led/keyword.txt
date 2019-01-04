@@ -1,0 +1,3 @@
+Led         KEYWORD1
+ligar       KEYWORD2
+desligar    KEYWORD2
